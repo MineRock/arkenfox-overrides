@@ -47,3 +47,8 @@ userjs-backups/
 weave/
 webappsstore.sqlite
 xulstore.json
+gmp-gmpopenh264/
+sessionstore.jsonlz4
+storage-sync-v2.sqlite
+storage-sync-v2.sqlite-shm
+storage-sync-v2.sqlite-wal
