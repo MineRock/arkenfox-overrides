@@ -52,3 +52,8 @@ sessionstore.jsonlz4
 storage-sync-v2.sqlite
 storage-sync-v2.sqlite-shm
 storage-sync-v2.sqlite-wal
+ClientAuthRememberList.txt
+bookmarkbackups/
+broadcast-listeners.json
+cert_override.txt
+security_state/
