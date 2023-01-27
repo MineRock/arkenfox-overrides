@@ -1,7 +1,6 @@
-user_pref("browser.startup.page", 1);
-user_pref("browser.startup.homepage", "about:home");
-user_pref("browser.newtabpage.enabled", true);
-user_pref("keyword.enabled", true);
-user_pref("network.http.referer.XOriginPolicy", 0);
-user_pref("signon.rememberSignons", false);
-user_pref("privacy.clearOnShutdown.history", false);
+user_pref("signon.rememberSignons", false); //5003
+user_pref("browser.safebrowsing.malware.enabled", false); //0401
+user_pref("browser.safebrowsing.phishing.enabled", false); //0401
+user_pref("layout.css.font-visibility.private", 1); //1402
+user_pref("layout.css.font-visibility.standard", 1); //1402
+user_pref("layout.css.font-visibility.trackingprotection", 1); //1402
