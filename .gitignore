@@ -1,3 +1,6 @@
+.parentlock
+lock
+saved-telemetry-pings/
 AlternateServices.txt
 Telemetry.FailedProfileLocks.txt
 notificationstore.json
